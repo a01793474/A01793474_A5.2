@@ -1,0 +1,12 @@
+Sales data from ./TC1/TC1.ProductList.json and ./TC1/TC1.Sales.json
+Total Sales $2481.86
+Execution time = 0.01563549041748047
+
+Sales data from ./TC2/TC1.ProductList.json and ./TC2/TC2.Sales.json
+Total Sales $166568.23000000004
+Execution time = 0.018643856048583984
+
+Sales data from ./TC3/TC1.ProductList.json and ./TC3/TC3.Sales.json
+Total Sales $165235.37000000002
+Execution time = 0.015006303787231445
+
